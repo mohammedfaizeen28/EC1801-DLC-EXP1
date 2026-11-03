@@ -22,11 +22,7 @@ exp1_boolean_min.vcd	VCD waveform dump generated during simulation
 ## Verilog Program
 
 
-
 ## TestBench Program
-
-
-
 
 
 
@@ -84,6 +80,7 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
+<img width="1917" height="1077" alt="exp1 waveform" src="https://github.com/user-attachments/assets/7f5443eb-0bc4-45db-8bc5-a467036bb233" />
 
 
 
